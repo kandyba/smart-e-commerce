@@ -66,3 +66,39 @@ cd smart-e-commerce
 npm install
 
 expo start
+
+## 📸 App Preview
+
+### 🔐 Authentication
+**Sign In**  
+![Sign In](./assets/screenshots/sign-in.png)
+
+**Sign Up**  
+![Sign Up](./assets/screenshots/sign-up.png)
+
+---
+
+### 🏬 Product Listing
+![Product List](./assets/screenshots/product-list.png)
+
+---
+
+### 🛒 Cart
+**Cart With Multiple Items**  
+![Cart Multiple](./assets/screenshots/order-list-multiple-items.png)
+
+**Cart Example #2**  
+![Cart Example](./assets/screenshots/order-list.png)
+
+**Empty Cart**  
+![Empty Cart](./assets/screenshots/cart-empty.png)
+
+---
+
+### 🧾 Checkout
+![Checkout](./assets/screenshots/checkout.png)
+
+---
+
+### 📦 My Orders
+![My Orders](./assets/screenshots/my-orders.png)
