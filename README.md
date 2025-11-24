@@ -59,7 +59,7 @@ It includes authentication screens, product listing, a functional cart, and glob
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/kandyba/smart-e-commerce.git
 
 cd smart-e-commerce
